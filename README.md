@@ -82,3 +82,14 @@ SELECT DATE(reading_ts) AS data,
 FROM temperature_readings
 GROUP BY DATE(reading_ts)
 ORDER BY data;
+
+## 📸 Screenshots do Dashboard
+
+### Média de Temperatura por Dispositivo
+![Média de Temperatura](screenshots/dashboard_avg_temp.png)
+
+### Leituras por Hora do Dia
+![Leituras por Hora](screenshots/dashboard_leituras_hora.png)
+
+### Temperaturas Máximas e Mínimas por Dia
+![Temperaturas Máximas e Mínimas](screenshots/dashboard_max_min.png)
