@@ -1,0 +1,4 @@
+device_id,temperature,reading_ts
+sensor1,22.5,2025-09-13 08:00:00
+sensor1,23.1,2025-09-13 09:00:00
+sensor2,21.9,2025-09-13 08:15:00
